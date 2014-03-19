@@ -9,6 +9,9 @@
 --Need the Russian Peasant implementation for exponentiation
 import Russian_Peasant
 
+--Instead of a hashtable, we're gonna try to use a map! 
+import qualified Data.Map.Lazy as Map
+
 --Function to compute the discrete log 
 --Input: a prime p, a beta,  and a generator of Z_p units, i.e ord(g) = p-1 
 -- Finds x s.th g^x = b \in Z_p units
