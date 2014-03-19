@@ -11,7 +11,7 @@ This is just a library of cryptographic and number theoretic functions for a cry
 
 4) GCD (Euclidean algorithm, extended Euclidean algorithm)
 
-5) Discrete Logarithm (Baby step giant step algorithm) 
+5) Discrete Logarithm (Baby step giant step algorithm) <br/>
    a) I'm still working on this one. It's not quite done. 
 
 6) More to come!! 
